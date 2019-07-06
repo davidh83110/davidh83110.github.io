@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deprecateds on 糾紛紀錄</title>
+    <link>https://example.com/deprecated/</link>
+    <description>Recent content in Deprecateds on 糾紛紀錄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Sep 2018 20:46:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/deprecated/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/deprecated/depr/</link>
+      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      
+      <guid>https://example.com/deprecated/depr/</guid>
+      <description>Feature X will be removed Lorem markdownum fulmen repetita atro praecipitem tela accepto quantumque funeribus spes; casus memorabile. Concidit culmine, unda ad adhuc liquidi cognata, sua cetera; ceu iam facientia quem. Regina referre tibi places cum et meritorum, in atque, capillos et deos. Di sua cepit excidit pectore probarunt fatale muta vento in Tamasenum.
+Templa hunc, exosa felix os temerasse Boreas facies nam ferre regimen! Fidemque signans stant Volturnus dicta vides, utque caelo pallidiora.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/deprecated/depr2/</link>
+      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      
+      <guid>https://example.com/deprecated/depr2/</guid>
+      <description>Feature Y will be removed Lorem markdownum fulmen repetita atro praecipitem tela accepto quantumque funeribus spes; casus memorabile. Concidit culmine, unda ad adhuc liquidi cognata, sua cetera; ceu iam facientia quem. Regina referre tibi places cum et meritorum, in atque, capillos et deos. Di sua cepit excidit pectore probarunt fatale muta vento in Tamasenum.
+Templa hunc, exosa felix os temerasse Boreas facies nam ferre regimen! Fidemque signans stant Volturnus dicta vides, utque caelo pallidiora.</description>
+    </item>
+    
+  </channel>
+</rss>
